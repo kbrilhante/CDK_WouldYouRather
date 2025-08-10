@@ -1,0 +1,204 @@
+{
+    "questions": [
+        {
+            "theme": "Fantasy and Adventure",
+            "items": [
+                "Would you rather explore a magical forest or dive into an underwater kingdom?",
+                "Would you rather have a pet dragon or a pet unicorn?",
+                "Would you rather be able to teleport anywhere or be invisible at will?",
+                "Would you rather have the power to fly or the power to breathe underwater?",
+                "Would you rather go on a treasure hunt or explore a haunted mansion?",
+                "Would you rather be a famous knight in a fairytale or a legendary wizard?"
+            ]
+        },
+        {
+            "theme": "Travel and Adventure",
+            "items": [
+                "Would you rather travel to every country in the world or explore outer space?",
+                "Would you rather spend a year living on a tropical island or in a cozy cabin in the mountains?",
+                "Would you rather go on a cross-country road trip with friends or take a solo trip around the world?",
+                "Would you rather visit a new city every day or spend a year getting to know one city really well?",
+                "Would you rather travel by hot air balloon or by a submarine?"
+            ]
+        },
+        {
+            "theme": "Food Choices",
+            "items": [
+                "Would you rather only be able to eat sweet foods or only be able to eat salty foods?",
+                "Would you rather have to put hot sauce on everything or have to eat every meal cold?",
+                "Would you rather only eat pizza for a week or only eat pasta for a week?",
+                "Would you rather eat a dish made by the world's best chef once or eat your favorite home-cooked meal every day?",
+                "Would you rather give up chocolate or cheese for a year?"
+            ]
+        },
+        {
+            "theme": "Skills and Abilities",
+            "items": [
+                "Would you rather be able to speak every language or play every instrument?",
+                "Would you rather be able to remember every book you've ever read or every movie you've ever watched?",
+                "Would you rather be an expert in one skill or be able to learn anything instantly but only at a beginner level?",
+                "Would you rather be able to control the weather or control time for 5 minutes each day?",
+                "Would you rather be able to always find lost things or know the answer to any question?"
+            ]
+        },
+        {
+            "theme": "Superpowers",
+            "items": [
+                "Would you rather have super strength or super speed?",
+                "Would you rather be able to read minds or be able to talk to animals?",
+                "Would you rather have night vision or the ability to see extremely far distances?",
+                "Would you rather be able to rewind time once per day or pause time for 10 seconds whenever you wanted?",
+                "Would you rather have super luck or super intelligence?"
+            ]
+        },
+        {
+            "theme": "Funny Situations",
+            "items": [
+                "Would you rather always have to sing when you speak or always dance when you walk?",
+                "Would you rather have to wear a clown costume every day or a superhero costume every day?",
+                "Would you rather be followed by a tiny cloud that rains on you wherever you go or have to walk everywhere backwards?",
+                "Would you rather only be able to whisper or only be able to shout?",
+                "Would you rather always laugh uncontrollably when you're nervous or hiccup every time someone says your name?"
+            ]
+        },
+        {
+            "theme": "Travel Scenarios",
+            "items": [
+                "Would you rather have unlimited airline tickets to any destination or never have to pay for food at restaurants?",
+                "Would you rather be able to drive any car or be able to speak any language fluently?",
+                "Would you rather live in a treehouse or in a houseboat?",
+                "Would you rather see a new sunset every day or a new sunrise every day?",
+                "Would you rather get a free tour of the world's most famous landmarks or a personal guide to the world's hidden gems?"
+            ]
+        },
+        {
+            "theme": "Choices with Friends",
+            "items": [
+                "Would you rather go on a camping trip with friends or have a movie marathon at home?",
+                "Would you rather play every board game in the world or every video game in the world?",
+                "Would you rather have to sing every word you say or shout every word you say?",
+                "Would you rather play hide and seek in a huge mansion or in a mysterious cave?",
+                "Would you rather never lose a game again or always make people laugh?"
+            ]
+        },
+        {
+            "theme": "Funny and Gross",
+            "items": [
+                "Would you rather eat a raw onion like an apple or drink pickle juice?",
+                "Would you rather walk around all day with wet socks or with sticky hands?",
+                "Would you rather have spaghetti for hair or broccoli for ears?",
+                "Would you rather have to smell like fish or have the hiccups forever?",
+                "Would you rather always have something stuck in your teeth or always have a piece of food stuck in your hair?"
+            ]
+        },
+        {
+            "theme": "Animal Choices",
+            "items": [
+                "Would you rather be able to talk to birds or talk to fish?",
+                "Would you rather be as strong as an elephant or as fast as a cheetah?",
+                "Would you rather be able to fly like an eagle or climb like a monkey?",
+                "Would you rather have the eyes of an owl or the ears of a wolf?"
+            ]
+        },
+        {
+            "theme": "Adventure and Mystery",
+            "items": [
+                "Would you rather solve an ancient mystery or find a hidden treasure?",
+                "Would you rather be an astronaut exploring space or a deep-sea diver exploring the ocean?",
+                "Would you rather journey through a jungle or trek across a desert?",
+                "Would you rather discover a new species or find a new planet?",
+                "Would you rather be a character in a mystery novel or in a fantasy novel?"
+            ]
+        },
+        {
+            "theme": "Weird Superpowers",
+            "items": [
+                "Would you rather be able to change colors like a chameleon or glow in the dark?",
+                "Would you rather sneeze glitter or yawn confetti?",
+                "Would you rather have ears that can hear from miles away or eyes that can zoom in like a camera?",
+                "Would you rather have fingers that can stretch or toes that can pick up anything?",
+                "Would you rather be able to talk to computers or plants?"
+            ]
+        },
+        {
+            "theme": "Animals and Nature",
+            "items": [
+                "Would you rather have a pet tiger that's super friendly or a pet eagle that you can fly with?",
+                "Would you rather be able to swim with dolphins or swing through trees with monkeys?",
+                "Would you rather live in a cozy treehouse in the forest or a peaceful house on the beach?",
+                "Would you rather be able to smell like a flower or look like a tree whenever you wanted?",
+                "Would you rather see the world through the eyes of a bird or the nose of a dog?"
+            ]
+        },
+        {
+            "theme": "Time Travel and History",
+            "items": [
+                "Would you rather travel 1,000 years into the past or 1,000 years into the future?",
+                "Would you rather meet a famous inventor or a famous artist?",
+                "Would you rather be able to visit your ancestors or meet your future descendants?",
+                "Would you rather experience life in ancient Egypt or in medieval Europe?",
+                "Would you rather watch your favorite historical event live or visit your favorite time period?"
+            ]
+        },
+        {
+            "theme": "Imagination and Fantasy",
+            "items": [
+                "Would you rather live in a world where magic exists or in a world with advanced technology?",
+                "Would you rather be best friends with a giant or with a fairy?",
+                "Would you rather find a door to another world or a key that opens any door?",
+                "Would you rather ride a unicorn or a flying carpet?",
+                "Would you rather live in a castle on a cloud or in an underwater palace?"
+            ]
+        },
+        {
+            "theme": "Choices about Fame and Influence",
+            "items": [
+                "Would you rather be a famous artist whose paintings are worth millions or a famous musician whose songs everyone knows?",
+                "Would you rather be the most famous person in the world or the richest person in the world?",
+                "Would you rather be a hero in your own town or be known around the world as a mysterious legend?",
+                "Would you rather be a leader everyone loves or a leader everyone respects?",
+                "Would you rather invent something that changes the world or write a book that everyone reads?"
+            ]
+        },
+        {
+            "theme": "Comfort and Lifestyle",
+            "items": [
+                "Would you rather have a cozy blanket that keeps you warm no matter how cold it is or a pillow that makes you fall asleep instantly?",
+                "Would you rather live in a house with huge windows but no curtains or in a tiny cozy home underground?",
+                "Would you rather have a personal chef or a personal trainer?",
+                "Would you rather have a room filled with books or a room filled with art?",
+                "Would you rather sleep on the softest bed ever or in the coolest, breeziest room ever?"
+            ]
+        },
+        {
+            "theme": "Weather and Seasons",
+            "items": [
+                "Would you rather only experience summer or only experience winter?",
+                "Would you rather live where it rains all the time or where it's always sunny but never rains?",
+                "Would you rather be able to make it snow whenever you wanted or make it rain whenever you wanted?",
+                "Would you rather watch a sunrise on a beach or a sunset in the mountains?",
+                "Would you rather go sledding on snowy hills or surfing on big waves?"
+            ]
+        },
+        {
+            "theme": "The Impossible and the Absurd",
+            "items": [
+                "Would you rather have hair that changes color with your mood or nails that change length with your emotions?",
+                "Would you rather always walk backward or always have to skip everywhere?",
+                "Would you rather eat only food you dislike for a year or have no taste at all for a month?",
+                "Would you rather be able to sneeze once every 5 minutes or hiccup once every 10 minutes?",
+                "Would you rather drink lemonade that tastes like chocolate or eat a burger that tastes like fruit?"
+            ]
+        },
+        {
+            "theme": "Dreams and the Imagination",
+            "items": [
+                "Would you rather have dreams every night that are adventures or no dreams at all but wake up super refreshed?",
+                "Would you rather be able to jump into your favorite books or your favorite movies?",
+                "Would you rather be able to visit your best memories whenever you want or be able to forget your worst memories?",
+                "Would you rather live in a world with superheroes or in a world with wizards?",
+                "Would you rather be able to control your dreams or be able to make one dream come true?"
+            ]
+        }
+    ]
+}
